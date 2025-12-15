@@ -1,2 +1,6 @@
 # ms365-dev-lab
-## Developer Account This project is for practicing Microsoft Graph API using my Microsoft Developer Program account.  ## Tools - Microsoft Graph Explorer - Microsoft 365 Developer Tenant (planned)
+## Developer Account This project is for practicing Microsoft Graph API using my Microsoft Developer Program account.  
+## Tools - Microsoft Graph Explorer - Microsoft 365 Developer Tenant (planned)
+
+Currently practicing Microsoft Graph API and Microsoft 365 development.
+
