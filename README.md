@@ -10,4 +10,6 @@ Currently practicing Microsoft Graph API and Microsoft 365 development.
 
 12/27
 -增加一些Log資訊
+12/30
+Create a File
 ```
