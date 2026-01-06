@@ -12,4 +12,6 @@ Currently practicing Microsoft Graph API and Microsoft 365 development.
 -增加一些Log資訊
 12/30
 Create a File
+115年01月06日
+想辦法增加System.out 資訊
 ```
